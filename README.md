@@ -70,6 +70,9 @@ pip install -r requirements.txt
 python app.py
 ```
 
+<img width="959" height="599" alt="Screenshot 2026-06-13 142746" src="https://github.com/user-attachments/assets/ef161e47-94b9-44cd-81c5-e3d49f9d3a7d" />
+
+
 The application will start at:
 
 ```text
