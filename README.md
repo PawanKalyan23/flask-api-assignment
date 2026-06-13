@@ -55,6 +55,9 @@ Windows:
 venv\Scripts\activate
 ```
 
+<img width="959" height="599" alt="Screenshot 2026-06-13 142734" src="https://github.com/user-attachments/assets/9d2d2ebe-b1e9-472e-977b-f8226b5f1e21" />
+
+
 ### 4. Install Dependencies
 
 ```bash
@@ -73,6 +76,9 @@ The application will start at:
 http://127.0.0.1:5000/api```
 
 ---
+
+<img width="959" height="599" alt="Screenshot 2026-06-13 142746" src="https://github.com/user-attachments/assets/33a297b8-68a6-43c7-aa3f-da6527f8af80" />
+
 
 ## API Endpoint
 
@@ -96,6 +102,9 @@ Example Response:
     }
 ]
 ```
+
+<img width="959" height="569" alt="Screenshot 2026-06-13 142758" src="https://github.com/user-attachments/assets/3beb7505-9e22-447f-ab5f-913d251a0854" />
+
 
 ---
 
